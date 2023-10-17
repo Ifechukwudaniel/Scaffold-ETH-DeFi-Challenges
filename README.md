@@ -13,9 +13,9 @@ The required competency is stated because tying into other protocols is powerful
 As well, self-learning is required because tying into DeFi protocols and actual professional crypto projects do not guide developers, step-by-step. If you are new to trying to actually plug into a professional project, no worries! We'll touch on some helpful tips as you sort out what the 'norm' is when going through this process. These tips will be specific to each protocol that we are integrating into and learning about.
 
 ---
-## 🚩 Challenge 0: 🐇 Uniswap V2 And V3 Liqidity Pool
+## 🚩 Challenge 0: ⚖️ Uniswap V2 And V3 Liqidity Pool
 
-🧪🦍 Ceate a super simple strategy to get used to the ins and outs of the `harvest` tx flow and the codebase affiliated with writing strategies with Yearn v2 vaults using Foundry. You'll use Foundry to run local tests and local mainnet fork tests against your `strategy.sol` code. 
+🧪🦍 Deploy simple liqidity pools with  for two two tokens with uniswap 
 
 ☑️ Future work: you'll deploy your strategy on testnet, and use Foundry && Scaffold-ETH v2 to generate a front-end for it that anyone can interact with.
 
